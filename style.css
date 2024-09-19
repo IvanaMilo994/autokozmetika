@@ -66,7 +66,7 @@ h2 {
 /*main header*/
 .mainHeader{
     background-image: url(img/header.jpg);
-    height:90vh;
+    height:10vh;
     background-position: center;
     background-size: cover;
 }
@@ -111,3 +111,14 @@ h2 {
     background: var(--accents);
     padding: 20px;
 }
+
+/*Prodavnica*/
+.shop .mt-5 a {
+    text-decoration: none;
+    color: var(--primary);
+}
+
+.shop .mt-5 a:hover {
+    text-decoration: underline;
+}
+
