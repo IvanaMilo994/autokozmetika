@@ -138,5 +138,13 @@ h2 {
     font-size: 40px;
 }
 
+.message {
+    background: var(--primary);
+    
+}
+
+
+
+
 
 
